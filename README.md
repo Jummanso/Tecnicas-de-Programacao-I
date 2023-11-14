@@ -1,1 +1,1 @@
-# T-cnicas-de-Programa-o-I
+# Técnicas de Programação I
